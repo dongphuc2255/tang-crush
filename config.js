@@ -3,7 +3,7 @@ const CONFIG = {
     btnIntro: 'Dạ',
     title: 'Phải chăng Chang đã thích Phúc ngay từ cái nhìn đầu tiên',
     desc: 'Chang yêu Phúc đúng khumm',
-    btnYes: 'Đúng<33333',
+    btnYes: 'Đúng<33333', 
     btnNo: 'Không, nằm mơ à',
     question:'Trên thế giới hơn 7 tỉ người mà sao Chang lại thích Phúc',
     btnReply: 'Gửi cho Phúc',
